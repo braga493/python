@@ -2,7 +2,7 @@ import os
 
 from flask import Flask
 
-from controllers import calculadora_bp
+from controllers import calculadora_bpsss
 from models import Operacao, db
 
 
